@@ -1,0 +1,42 @@
+_repo: The-Ridin-Kid-from-Powder-River_16530
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Brinkerhoff, R. M.
+    alias: Brinkerhoff, Robert Moore
+    gutenberg_agent_id: '6774'
+    url: http://www.gutenberg.org/2009/agents/6774
+  - agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knibbs, Henry Herbert
+    aliases:
+    - Knibbs, Harry Herbert
+    - Knibbs, H. H. (Henry Herbert)
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '4257'
+    url: http://www.gutenberg.org/2009/agents/4257
+description: ''
+gutenberg_issued: '2005-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16530'
+  lccn: '19015555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Ridin' Kid from Powder River
+url: http://www.gutenberg.org/ebooks/16530
